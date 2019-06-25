@@ -273,6 +273,9 @@
 			<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS and people are being scammed there. Domain has been seized by the hoster">
                             <a href="http://www.rainhosting.nl">RainHosting</a>
                         </li>
+			<li data-placement="left" data-toggle="tooltip" title="Same owner/management as RainHosting.nl. Managed to continue with a Dutch name instead of an English name.">
+                            <a href="http://www.regenhosting.nl">RegenHosting (Formerly known as RainHosting.nl)</a>
+                        </li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
